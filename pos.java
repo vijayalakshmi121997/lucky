@@ -10,15 +10,15 @@ class Ideone
 		int number=10;
         if(number>0)
  {
-            System.out.println(number+" is a positive number");
+            System.out.println("Positive");
         }
         else if(number < 0)
         {
-            System.out.println(number+" is a negative number");
+            System.out.println(" negative ");
         }
         else
         {
-            System.out.println(number+" is neither positive nor negative");
+            System.out.println("zero");
         }
 
 	}
